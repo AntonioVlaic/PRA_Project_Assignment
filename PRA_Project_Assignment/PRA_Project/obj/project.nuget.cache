@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZuO66fbs6a4MZG1qgrT4BW2ecUgUJ59kftMgiYZROJRBeI5qqN1ieGceOuPI5ZBoJBWMIv5qj3Rt4JZWe45G3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anton\\Desktop\\Algebra\\Algebra\\2. Godina\\PRA_Project_Assignment\\PRA_Project_Assignment\\PRA_Project\\PRA_Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.identity.client\\4.51.0\\microsoft.identity.client.4.51.0.nupkg.sha512",
+    "C:\\Users\\anton\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512"
+  ],
+  "logs": []
+}
